@@ -28,7 +28,7 @@ body {
     text-transform: uppercase;
 }
 
-.span-web {
+.span-logo {
     color: #4D5AE5;
 }
 
@@ -113,11 +113,11 @@ address {
 }
 
 .section-heading {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: #2E2F42;
     text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
@@ -167,6 +167,10 @@ address {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+}
+
+.span-logo-footer {
+    color: #4d5ae5;
 }
 
 .text-footer {
