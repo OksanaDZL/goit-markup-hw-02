@@ -28,10 +28,6 @@ body {
     text-transform: uppercase;
 }
 
-.span-logo {
-    color: #2e2f42;
-}
-
 .link {
     color:#2E2F42;
     font-size: 16px;
@@ -95,6 +91,7 @@ address {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
+    font-family: "Roboto", sans-serif
 }
 
 .button-order:hover,
@@ -173,10 +170,6 @@ address {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-}
-
-.span-logo-footer {
-    color: #4d5ae5;
 }
 
 .text-footer {
