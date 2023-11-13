@@ -29,7 +29,7 @@ body {
 }
 
 .span-logo {
-    color: #4D5AE5;
+    color: #2e2f42;
 }
 
 .link {
@@ -63,6 +63,12 @@ address {
 
 .main-text-but {
     background: #2E2F42;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02e;
+    color: #ffffff;
+
 }
 
 .main-tex {
