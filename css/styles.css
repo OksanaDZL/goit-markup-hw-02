@@ -162,6 +162,15 @@ address {
     background: #2E2F42;
 }
 
+.footer-studio {
+    color: #F4F4FD;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
 .logo-footer {
     color:  #F4F4FD;
     font-family: 'Raleway',sans-serif;
