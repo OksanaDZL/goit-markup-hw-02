@@ -150,6 +150,10 @@ address {
     text-transform: capitalize;
 }
 
+.worker-list-position {
+    background-color: #FFFFFF
+}
+
 .worker-name {
     color: #2E2F42;
     text-align: center;
@@ -192,7 +196,7 @@ address {
     height: 21px;
     flex-direction: column;
     justify-content: center;
-    color:#4D5AE5;
+    color: #4d5ae5;
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -207,7 +211,7 @@ address {
     height: 21px;
     flex-direction: column;
     justify-content: center;
-    color:  #F4F4FD;
+    color: #f4f4fd;
     font-family: 'Raleway',sans-serif;
     font-size: 18px;
     font-weight: 700;
